@@ -1,0 +1,18 @@
+Link Test case dan Bug report
+https://docs.google.com/spreadsheets/d/1f1KvsPzM-jUiwZwWaqk1DAR-8BJc2DhE2JIebBIsbRo/edit?usp=sharing
+
+Requirement
+Device tester harus sudah terinstal cucumber dan ruby
+
+Cara run
+Test Case
+masuk terminal
+pindah ke direktori ../Testing/Technical Test
+tulis " cucumber "
+dan klik enter
+
+Bug
+masuk terminal
+pindah ke direktori ../Testing/Automed Bug
+tulis " ruby Bug.rb "
+dan klik entr
